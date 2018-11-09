@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  flight_date: 2018-11-05
+  number_of_people: 1
+
+two:
+  flight_date: 2018-11-05
+  number_of_people: 1
